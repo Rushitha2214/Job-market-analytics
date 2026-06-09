@@ -42,6 +42,8 @@ Job_Market_Analytics/
 │   └── monthly_trend.csv
 ├── src/
 │   └── chatbot_app.py        # Streamlit chatbot application (created in VS Code)
+|__screenshots
+|___pbix file
 └── README.md
 ```
 > **Note:** All relative paths are set assuming the **project root folder is `Job_Market_Analytics`**, Jupyter notebooks live in `/notebooks`, and code files live in `/src`.
