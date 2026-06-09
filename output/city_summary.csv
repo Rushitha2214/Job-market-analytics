@@ -1,0 +1,9 @@
+location_clean,Job_Count,Avg_Salary,Median_Salary,Company_Count
+Bangalore,107,985543.0,994555.0,15
+Hyderabad,78,1004322.0,1023134.0,15
+Mumbai,65,949284.0,981838.0,15
+Delhi,49,974955.0,966404.0,15
+Pune,37,1011314.0,1054440.0,15
+Chennai,19,957836.0,948506.0,11
+Gurgaon,14,1027682.0,1054041.0,10
+Kolkata,7,1046499.0,1097761.0,6
